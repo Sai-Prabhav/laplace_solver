@@ -71,3 +71,5 @@ Solves Laplace's equation on a unit cube $[0,1]^3$ with solution $u(x,y,z) = \si
 ![Contour Plot o the solution](https://github.com/Sai-Prabhav/laplace_solver/blob/main/problem-2_2m.png)
 
 ![Animation of the cross sectional view of the solution](https://github.com/Sai-Prabhav/laplace_solver/blob/main/problem-2.gif)
+
+In both the above problems we can clearly observe that L2 error is of order $O(h^2)$ where H1 error is of the order $O(h)$.
